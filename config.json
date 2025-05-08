@@ -1,0 +1,28 @@
+{
+    "exchange_id": "binanceusdm",
+    "api_key": "YOUR_API_KEY",
+    "secret_key": "YOUR_SECRET_KEY",
+    "password": null,
+    "check_hedge_mode": true,
+    "symbols_to_scan": [
+        "BTC/USDT:USDT",
+        "ETH/USDT:USDT"
+    ],
+    "duration_minutes": 45,
+    "pump_dump_perc": 7.0,
+    "leverage": 5,
+    "total_margin_perc": 10.0,
+    "num_entries": 5,
+    "add_margin_roi_levels": [
+        -200.0,
+        -200.0,
+        -200.0,
+        -200.0
+    ],
+    "tp_roi_perc": 200.0,
+    "stop_loss_roi_perc": -500.0,
+    "position_side": "LONG",
+    "scan_interval_seconds": 60,
+    "monitor_interval_seconds": 15,
+    "quote_currency": "USDT"
+}

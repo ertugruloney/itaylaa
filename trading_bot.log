@@ -1,0 +1,13 @@
+2025-05-04 19:34:41,498 - CryptoTradingBot - INFO - Created default configuration file: config.ini
+2025-05-04 19:34:41,498 - CryptoTradingBot - WARNING - Please edit the configuration file with your API keys and preferences
+2025-05-04 19:34:41,498 - CryptoTradingBot - INFO - Please configure the bot by editing config.ini and run again.
+2025-05-04 19:34:52,981 - CryptoTradingBot - ERROR - Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 19:34:52,981 - CryptoTradingBot - ERROR - Fatal error: Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 19:34:56,149 - CryptoTradingBot - ERROR - Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 19:34:56,150 - CryptoTradingBot - ERROR - Fatal error: Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 19:34:58,798 - CryptoTradingBot - ERROR - Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 19:34:58,798 - CryptoTradingBot - ERROR - Fatal error: Margin percentages do not add up to TKM. Total used: 9.975000000000001%, TKM: 10.0%
+2025-05-04 20:04:32,116 - CryptoBacktester - WARNING - Analiz edilecek işlem geçmişi yok
+2025-05-04 20:04:36,588 - CryptoBacktester - INFO - Sonuçlar backtest_results.json dosyasına kaydedildi
+2025-05-04 20:05:51,886 - CryptoBacktester - WARNING - Analiz edilecek işlem geçmişi yok
+2025-05-04 20:06:00,258 - CryptoBacktester - INFO - Sonuçlar backtest_results.json dosyasına kaydedildi
